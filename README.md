@@ -53,4 +53,4 @@ Após abrir o notebook:
 
 Assista ao funcionamento completo do projeto:
 
-[Vídeo do Projeto](COLOQUE_O_LINK_DO_VIDEO_AQUI)
+[Vídeo do Projeto](https://youtu.be/4MbyDJlCNB4)
