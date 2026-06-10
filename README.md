@@ -1,4 +1,4 @@
-# Mission_Control_AI
+# Mission Control AI
 Sistema de monitoramento espacial com Inteligência Artificial
 
 ## Integrantes
